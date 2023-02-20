@@ -58,9 +58,6 @@ USE_CUSTOM_AUDIO_POLICY := 1
 # Bootloader
 TARGET_NO_BOOTLOADER := true
 
-# Display
-TARGET_SCREEN_DENSITY := 440
-
 # Filesystem
 TARGET_FS_CONFIG_GEN := $(COMMON_PATH)/config.fs
 
